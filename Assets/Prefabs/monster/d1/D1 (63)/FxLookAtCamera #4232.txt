@@ -1,0 +1,13 @@
+PPtr<GameObject> m_GameObject
+	int m_FileID = 0
+	SInt64 m_PathID = -7952927942558033028
+UInt8 m_Enabled = 1
+PPtr<MonoScript> m_Script
+	int m_FileID = 0
+	SInt64 m_PathID = 8411814594429337507
+string m_Name = ""
+UInt8 isUpdateValid = 1
+UInt8 local = 0
+PPtr<$Transform> mCamTrans
+	int m_FileID = 0
+	SInt64 m_PathID = 0

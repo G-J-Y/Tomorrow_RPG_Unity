@@ -1,0 +1,215 @@
+fileFormatVersion: 2
+guid: d2cd6cd0961993d4c994e30977354440
+timeCreated: 1537449291
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Bip001
+    100002: Bip001 eye
+    100004: Bip001 eyepi
+    100006: Bip001 eyepi01
+    100008: Bip001 mouth
+    100010: Bip001 Pelvis
+    100012: Bip001 she01
+    100014: Bip001 she0102
+    100016: Bip001 she0103
+    100018: Bip001 she0104
+    100020: Bip001 she0105
+    100022: Bip001 she0106
+    100024: Bip001 she01Opp
+    100026: Bip001 she01Opp02
+    100028: Bip001 she01Opp03
+    100030: Bip001 she01Opp04
+    100032: Bip001 she01Opp05
+    100034: Bip001 she01Opp06
+    100036: Bip001 she02
+    100038: Bip001 she0202
+    100040: Bip001 she0203
+    100042: Bip001 she0204
+    100044: Bip001 she0205
+    100046: Bip001 she0206
+    100048: Bip001 she02Opp
+    100050: Bip001 she02Opp02
+    100052: Bip001 she02Opp03
+    100054: Bip001 she02Opp04
+    100056: Bip001 she02Opp05
+    100058: Bip001 she02Opp06
+    100060: Bip001 Spine
+    100062: Bip001 Xtra01
+    100064: Bip001 Xtra0102
+    100066: Bip001 Xtra0103
+    100068: Bip001 Xtra01Opp
+    100070: Bip001 Xtra01Opp02
+    100072: Bip001 Xtra01Opp03
+    100074: Bip001 Xtra02
+    100076: Bip001 Xtra02Opp
+    100078: Bip001 Xtra03
+    100080: Bip001 Xtra03Opp
+    100082: Bip001 Xtra04
+    100084: Bip001 Xtra0402
+    100086: Bip001 Xtra0403
+    100088: Bip001 Xtra0404
+    100090: Bip001 Xtra04Opp
+    100092: Bip001 Xtra04Opp02
+    100094: Bip001 Xtra04Opp03
+    100096: Bip001 Xtra04Opp04
+    100098: Bip001 Xtra05
+    100100: Bip001 Xtra0502
+    100102: Bip001 Xtra0503
+    100104: Bip001 Xtra0504
+    100106: Bip001 Xtra05Opp
+    100108: Bip001 Xtra05Opp02
+    100110: Bip001 Xtra05Opp03
+    100112: Bip001 Xtra05Opp04
+    100114: Monster_045
+    100116: //RootNode
+    100118: Monster_045 1
+    100120: Monster_045_0
+    100122: Monster_045_1
+    400000: Bip001
+    400002: Bip001 eye
+    400004: Bip001 eyepi
+    400006: Bip001 eyepi01
+    400008: Bip001 mouth
+    400010: Bip001 Pelvis
+    400012: Bip001 she01
+    400014: Bip001 she0102
+    400016: Bip001 she0103
+    400018: Bip001 she0104
+    400020: Bip001 she0105
+    400022: Bip001 she0106
+    400024: Bip001 she01Opp
+    400026: Bip001 she01Opp02
+    400028: Bip001 she01Opp03
+    400030: Bip001 she01Opp04
+    400032: Bip001 she01Opp05
+    400034: Bip001 she01Opp06
+    400036: Bip001 she02
+    400038: Bip001 she0202
+    400040: Bip001 she0203
+    400042: Bip001 she0204
+    400044: Bip001 she0205
+    400046: Bip001 she0206
+    400048: Bip001 she02Opp
+    400050: Bip001 she02Opp02
+    400052: Bip001 she02Opp03
+    400054: Bip001 she02Opp04
+    400056: Bip001 she02Opp05
+    400058: Bip001 she02Opp06
+    400060: Bip001 Spine
+    400062: Bip001 Xtra01
+    400064: Bip001 Xtra0102
+    400066: Bip001 Xtra0103
+    400068: Bip001 Xtra01Opp
+    400070: Bip001 Xtra01Opp02
+    400072: Bip001 Xtra01Opp03
+    400074: Bip001 Xtra02
+    400076: Bip001 Xtra02Opp
+    400078: Bip001 Xtra03
+    400080: Bip001 Xtra03Opp
+    400082: Bip001 Xtra04
+    400084: Bip001 Xtra0402
+    400086: Bip001 Xtra0403
+    400088: Bip001 Xtra0404
+    400090: Bip001 Xtra04Opp
+    400092: Bip001 Xtra04Opp02
+    400094: Bip001 Xtra04Opp03
+    400096: Bip001 Xtra04Opp04
+    400098: Bip001 Xtra05
+    400100: Bip001 Xtra0502
+    400102: Bip001 Xtra0503
+    400104: Bip001 Xtra0504
+    400106: Bip001 Xtra05Opp
+    400108: Bip001 Xtra05Opp02
+    400110: Bip001 Xtra05Opp03
+    400112: Bip001 Xtra05Opp04
+    400114: Monster_045
+    400116: //RootNode
+    400118: Monster_045 1
+    400120: Monster_045_0
+    400122: Monster_045_1
+    4300000: Monster_045_0
+    4300002: Monster_045_1
+    7400000: Relax
+    7400002: Attack06
+    7400004: Stand
+    7400006: Attack02
+    7400008: Attack03
+    7400010: Attack01
+    7400012: Attack05
+    7400014: Hit
+    7400016: Die
+    7400018: Attack04
+    7400020: Walk
+    9500000: //RootNode
+    13700000: Monster_045_0
+    13700002: Monster_045_1
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,14 @@
+PPtr<GameObject> m_GameObject
+	int m_FileID = 0
+	SInt64 m_PathID = -3840106564518848268
+UInt8 m_Enabled = 1
+PPtr<MonoScript> m_Script
+	int m_FileID = 0
+	SInt64 m_PathID = 809506071517615575
+string m_Name = ""
+UInt8 isUpdateValid = 1
+UInt8 IsWorldSpace = 0
+Vector3f RotationValue
+	float x = 0
+	float y = 0
+	float z = -360

@@ -1,0 +1,150 @@
+fileFormatVersion: 2
+guid: 5d84906508fe276418d76c4fb75ed4a2
+timeCreated: 1537449159
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Bip001
+    100002: Bip001 Head
+    100004: Bip001 L Clavicle
+    100006: Bip001 L Finger0
+    100008: Bip001 L Finger01
+    100010: Bip001 L Forearm
+    100012: Bip001 L Hand
+    100014: Bip001 L UpperArm
+    100016: Bip001 Neck
+    100018: Bip001 Pelvis
+    100020: Bip001 R Clavicle
+    100022: Bip001 R Finger0
+    100024: Bip001 R Finger01
+    100026: Bip001 R Forearm
+    100028: Bip001 R Hand
+    100030: Bip001 R UpperArm
+    100032: Bip001 Spine
+    100034: Bone001
+    100036: Bone001(mirrored)
+    100038: Bone002
+    100040: Bone002(mirrored)
+    100042: Bone004
+    100044: Bone005
+    100046: Bone007
+    100048: Bone007(mirrored)
+    100050: Bone008
+    100052: Bone008(mirrored)
+    100054: Monster_052
+    100056: //RootNode
+    100058: Monster_052 1
+    100060: Monster_052_0
+    100062: Monster_052_1
+    400000: Bip001
+    400002: Bip001 Head
+    400004: Bip001 L Clavicle
+    400006: Bip001 L Finger0
+    400008: Bip001 L Finger01
+    400010: Bip001 L Forearm
+    400012: Bip001 L Hand
+    400014: Bip001 L UpperArm
+    400016: Bip001 Neck
+    400018: Bip001 Pelvis
+    400020: Bip001 R Clavicle
+    400022: Bip001 R Finger0
+    400024: Bip001 R Finger01
+    400026: Bip001 R Forearm
+    400028: Bip001 R Hand
+    400030: Bip001 R UpperArm
+    400032: Bip001 Spine
+    400034: Bone001
+    400036: Bone001(mirrored)
+    400038: Bone002
+    400040: Bone002(mirrored)
+    400042: Bone004
+    400044: Bone005
+    400046: Bone007
+    400048: Bone007(mirrored)
+    400050: Bone008
+    400052: Bone008(mirrored)
+    400054: Monster_052
+    400056: //RootNode
+    400058: Monster_052 1
+    400060: Monster_052_0
+    400062: Monster_052_1
+    4300000: Monster_052_0
+    4300002: Monster_052_1
+    7400000: Stand
+    7400002: Attack01
+    7400004: Die
+    7400006: Walk
+    7400008: Relax
+    7400010: Hit
+    9500000: //RootNode
+    13700000: Monster_052_0
+    13700002: Monster_052_1
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
